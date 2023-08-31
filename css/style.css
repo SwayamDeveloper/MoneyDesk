@@ -1,0 +1,187 @@
+ /* Make the image fully responsive */
+
+
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ .carousel-inner img {
+    width: 100%;
+    height: 90vh;
+  }
+
+.aboutimg{
+   width: 100%;
+   height: 250px!important;
+  }
+
+  /* Section Why Money Desk */
+.fEvAcG {
+   margin: 42px 0px 56px;
+   text-align: center;
+ }
+ 
+ .gwmxjf {
+   font-family: Montserrat;
+   font-size: 38px;
+   font-weight: 600;
+   font-stretch: normal;
+   font-style: normal;
+   line-height: normal;
+   letter-spacing: 0.38px;
+   text-align: center;
+   color: rgb(25, 25, 25);
+ }
+ 
+ .bdQTyT {
+   display: flex;
+   justify-content: space-evenly;
+   flex-wrap: wrap;
+   position: relative;
+ }
+ 
+ .hwvwtH {
+   left: 11%;
+   top: -7%;
+   -webkit-box-flex: 0;
+   flex-grow: 0;
+   width: 18.8px;
+   left: 5%;
+   top: 40%;
+   height: 185.5px;
+   position: absolute;
+   transform: rotate(-225.93deg);
+   border-radius: 19px;
+   background-color: rgb(226, 229, 241);
+ }
+ 
+ .bIiFlf {
+   left: 11%;
+   top: -1%;
+   width: 18.8px;
+     left: 5%;
+     top: 31%;
+     height: 185.5px;
+     -webkit-box-flex: 0;
+     flex-grow: 0;
+     position: absolute;
+     transform: rotate(-225.93deg);
+     border-radius: 19px;
+     background-color: rgb(226, 229, 241);
+ }
+ 
+ .dUdYmY {
+   width: 330px;
+   -webkit-box-flex: 0;
+   flex-grow: 0;
+   margin: 55px 20px 1px;
+   padding: 46px 21px;
+   z-index: 1;
+   border-radius: 8px;
+   box-shadow: rgba(0, 0, 0, 0.25) 0px 0px 16px 0px;
+   background-color: rgb(255, 255, 255);
+ }
+ 
+ .yuVDL {
+   width: 150px;
+   -webkit-box-flex: 0;
+   flex-grow: 0;
+   margin: 0px 70px 36px;
+   padding: 25px;
+   border-radius: 50%;
+   border: 1px solid rgb(242, 177, 0);
+   background-color: rgb(255, 255, 255);
+ }
+ 
+ .lfivYb {
+   background-image: url(https://ik.imagekit.io/kreditbee/app-static/icons/A/ic-amount-2.5cr.svg);
+   width: 100px;
+   height: 100px;
+   -webkit-box-flex: 0;
+   flex-grow: 0;
+   object-fit: contain;
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   z-index: -1;
+ }
+ 
+ .IpYtr {
+   -webkit-box-flex: 0;
+   flex-grow: 0;
+   display: block;
+   margin: 36px 0px 0px;
+   font-family: Montserrat;
+   font-size: 18px;
+   font-weight: 500;
+   font-stretch: normal;
+   font-style: normal;
+   line-height: normal;
+   letter-spacing: normal;
+   text-align: center;
+   color: rgb(25, 25, 25);
+ }
+ 
+ .gDrbMi {
+   background-image: url(https://ik.imagekit.io/kreditbee/app-static/icons/T/ic-trust.svg);
+   width: 100px;
+   height: 100px;
+   -webkit-box-flex: 0;
+   flex-grow: 0;
+   object-fit: contain;
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   z-index: -1;
+ }
+ 
+ 
+ .nNDJu {
+   background-image: url(https://ik.imagekit.io/kreditbee/app-static/icons/P/ic-playstore.svg);
+   width: 100px;
+   height: 100px;
+   -webkit-box-flex: 0;
+   flex-grow: 0;
+   object-fit: contain;
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   z-index: -1;
+ }
+ 
+ .cihaWV {
+   right: 11%;
+   top: 72%;
+ }
+ 
+ .cihaWV {
+   -webkit-box-flex: 0;
+   flex-grow: 0;
+   width: 18.8px;
+   right: 5%;
+   top: 31%;
+   height: 185.5px;
+   position: absolute;
+   transform: rotate(-134.07deg);
+   border-radius: 19px;
+   background-color: rgb(226, 229, 241);
+ }
+ 
+ .bdqNWB {
+   right: 11%;
+   top: 78%;
+ }
+ .bdqNWB {
+   -webkit-box-flex: 0;
+   flex-grow: 0;
+   width: 18.8px;
+   right: 5%;
+   top: 40%;
+   height: 185.5px;
+   position: absolute;
+   transform: rotate(-134.07deg);
+   border-radius: 19px;
+   background-color: rgb(226, 229, 241);
+ }
+ 
